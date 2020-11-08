@@ -2,5 +2,5 @@ ASHUFI RESOLUSI
 - Membuat konten 2x seminggu
 - Membuat platform untuk pengelolaan kode
 - Membuat forum diskusi
-- Membuat website
 - Kolaborasi dengan lebih banyak ahli
+- Membuat tutorial Excel
