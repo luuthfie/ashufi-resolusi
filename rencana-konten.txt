@@ -1,4 +1,6 @@
 RENCANA KONTEN ASHUFI
 - Java Script
+* ES6
+* Javascript Advanced
 - PHP Framework
 - Interviu
