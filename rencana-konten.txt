@@ -2,6 +2,9 @@ RENCANA KONTEN ASHUFI
 - Java Script
 * ES6
 * Javascript Advanced
+^ Vue
 - Struktur Data Dasar
 - PHP Framework
+* Laravel
 - Interviu
+- Python
