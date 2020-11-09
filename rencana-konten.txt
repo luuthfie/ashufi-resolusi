@@ -3,6 +3,7 @@ RENCANA KONTEN ASHUFI
 * ES6
 * Javascript Advanced
 ^ Vue
+^ React
 - Struktur Data Dasar
 - PHP Framework
 * Laravel
